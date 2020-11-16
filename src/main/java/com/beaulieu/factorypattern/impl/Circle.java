@@ -9,7 +9,7 @@ public class Circle implements IShape {
 
     @Override
     public String draw() {
-        logger.info("circle");
+        logger.info("I'm a circle");
         return "I'm a circle";
     }
 }

@@ -9,7 +9,7 @@ public class Square implements IShape {
 
     @Override
     public String draw() {
-        logger.info("square");
+        logger.info("I'm a square");
         return "I'm a square";
     }
 }

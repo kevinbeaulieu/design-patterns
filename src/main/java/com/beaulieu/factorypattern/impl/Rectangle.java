@@ -9,7 +9,7 @@ public class Rectangle implements IShape {
 
     @Override
     public String draw() {
-        logger.info("rectangle");
+        logger.info("I'm a rectangle");
         return "I'm a rectangle";
     }
 }
